@@ -11,11 +11,12 @@ const links = [
 // Isi alamat di kolom kedua, contoh: ["Email", "mailto:nama@email.com"].
 // Yang dikosongkan ("") tidak ditampilkan.
 const contact = [
-  ["Email", "ikhsanudinmn@gmail.com"],
-  ["LinkedIn", "www.linkedin.com/in/ikhsanudin-muhammad-nurzaini-9a6b88249"],
+  ["Email", "mailto:ikhsanudinmn@gmail.com"],
+  ["LinkedIn", "https://www.linkedin.com/in/ikhsanudin-muhammad-nurzaini-9a6b88249"],
   ["GitHub", "https://github.com/Heatzen-7"],
-  ["Instagram", "https://www.instagram.com/htzarchive/"],
-  ["MyAnimeList", "https://myanimelist.net/profile/Heatzen"]
+  ["Instagram", "https://www.instagram.com/ikhsanudin_mn/"],
+  ["MyAnimeList", "https://myanimelist.net/profile/Heatzen"],
+  ["Facebook", "https://www.facebook.com/ikhsanudinmn"]
 ];
 
 // ===== selesai =====
