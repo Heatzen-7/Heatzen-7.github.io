@@ -4,15 +4,15 @@
 const links = [
   ["/", "Homepage"], ["/cv/", "CV"], ["/projects/", "Projects"],
   ["/photography/", "Photography"], ["/anime-list/", "Anime Watching List"],
-  ["/manga-list/", "Manga Reading List"], ["/pembahasan-anime/", "Pembahasan Pribadi Anime"]
+  ["/manga-list/", "Manga Reading List"], ["/pembahasan-anime/", "Anime Diary"]
 ];
 
 // Kontak: tampil di sidebar Homepage dan footer semua halaman.
 // Isi alamat di kolom kedua, contoh: ["Email", "mailto:nama@email.com"].
 // Yang dikosongkan ("") tidak ditampilkan.
 const contact = [
-  ["Email", ""],
-  ["LinkedIn", ""],
+  ["Email", "ikhsanudinmn@gmail.com"],
+  ["LinkedIn", "www.linkedin.com/in/ikhsanudin-muhammad-nurzaini-9a6b88249"],
   ["GitHub", "https://github.com/Heatzen-7"],
   ["Instagram", "https://www.instagram.com/htzarchive/"],
   ["MyAnimeList", "https://myanimelist.net/profile/Heatzen"]
