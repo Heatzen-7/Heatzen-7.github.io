@@ -23,3 +23,6 @@ Jalankan `python3 -m http.server 8000` di folder ini, lalu buka http://localhost
 
 ## Kontak dan menu
 Daftar menu dan kontak (Email, LinkedIn, dst.) diatur di satu tempat: bagian PENGATURAN di `assets/js/main.js`. Perubahan berlaku di sidebar Homepage dan footer semua halaman.
+
+## Sinkronisasi MyAnimeList (menggantikan Jikan, yang sudah ditutup)
+`scripts/update-mal.mjs` mengambil daftar dari API resmi MAL, dijalankan tiap hari oleh GitHub Actions (workflow ada di `.github/workflows/update-mal.yml`, isinya sama dengan `scripts/update-mal.workflow.yml`). Hasilnya disimpan di `data/mal.json` dan dibaca `assets/js/mal.js`. Butuh secret `MAL_CLIENT_ID` di Settings > Secrets and variables > Actions.
