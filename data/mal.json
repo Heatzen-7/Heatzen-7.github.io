@@ -1,1 +1,246 @@
-{"anime":[],"manga":[]}
+{
+ "anime": [
+  {
+   "id": 51815,
+   "title": "Kubo-san wa Mob wo Yurusanai",
+   "image": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
+   "url": "https://myanimelist.net/anime/51815",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 56735,
+   "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
+   "url": "https://myanimelist.net/anime/56735",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 32828,
+   "title": "Amaama to Inazuma",
+   "image": "https://cdn.myanimelist.net/images/anime/6/80546.webp",
+   "url": "https://myanimelist.net/anime/32828",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 24231,
+   "title": "Hitsugi no Chaika: Avenging Battle",
+   "image": "https://cdn.myanimelist.net/images/anime/3/67797.webp",
+   "url": "https://myanimelist.net/anime/24231",
+   "status": "completed",
+   "score": 0,
+   "progress": 10,
+   "total": 10
+  },
+  {
+   "id": 20853,
+   "title": "Hitsugi no Chaika",
+   "image": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
+   "url": "https://myanimelist.net/anime/20853",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 62856,
+   "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+   "image": "https://cdn.myanimelist.net/images/anime/1068/158475.jpg",
+   "url": "https://myanimelist.net/anime/62856",
+   "status": "completed",
+   "score": 0,
+   "progress": 13,
+   "total": 13
+  },
+  {
+   "id": 62535,
+   "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+   "image": "https://cdn.myanimelist.net/images/anime/1350/159514.jpg",
+   "url": "https://myanimelist.net/anime/62535",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 63082,
+   "title": "Reiwa no Dara-san",
+   "image": "https://cdn.myanimelist.net/images/anime/1170/155761.webp",
+   "url": "https://myanimelist.net/anime/63082",
+   "status": "completed",
+   "score": 0,
+   "progress": 13,
+   "total": 13
+  },
+  {
+   "id": 49784,
+   "title": "Mairimashita! Iruma-kun 3rd Season",
+   "image": "https://cdn.myanimelist.net/images/anime/1688/128720.jpg",
+   "url": "https://myanimelist.net/anime/49784",
+   "status": "completed",
+   "score": 0,
+   "progress": 21,
+   "total": 21
+  },
+  {
+   "id": 39196,
+   "title": "Mairimashita! Iruma-kun",
+   "image": "https://cdn.myanimelist.net/images/anime/1009/103187.jpg",
+   "url": "https://myanimelist.net/anime/39196",
+   "status": "completed",
+   "score": 0,
+   "progress": 23,
+   "total": 23
+  },
+  {
+   "id": 41402,
+   "title": "Mairimashita! Iruma-kun 2nd Season",
+   "image": "https://cdn.myanimelist.net/images/anime/1527/113656.webp",
+   "url": "https://myanimelist.net/anime/41402",
+   "status": "completed",
+   "score": 0,
+   "progress": 21,
+   "total": 21
+  },
+  {
+   "id": 5680,
+   "title": "K-On!",
+   "image": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+   "url": "https://myanimelist.net/anime/5680",
+   "status": "completed",
+   "score": 0,
+   "progress": 13,
+   "total": 13
+  }
+ ],
+ "manga": [
+  {
+   "id": 131924,
+   "title": "Tsue to Tsurugi no Wistoria",
+   "image": "https://cdn.myanimelist.net/images/manga/1/243105.jpg",
+   "url": "https://myanimelist.net/manga/131924",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 122353,
+   "title": "Kaette Kudasai! Akutsu-san",
+   "image": "https://cdn.myanimelist.net/images/manga/2/305251.jpg",
+   "url": "https://myanimelist.net/manga/122353",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 141772,
+   "title": "Yomi no Tsugai",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
+   "url": "https://myanimelist.net/manga/141772",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 118741,
+   "title": "Tonari no Furi-san ga Tonikaku Kowai.",
+   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
+   "url": "https://myanimelist.net/manga/118741",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 47
+  },
+  {
+   "id": 173412,
+   "title": "Tonari no Seki no Yankee Shimizu-san ga Kami wo Kuroku Sometekita",
+   "image": "https://cdn.myanimelist.net/images/manga/3/319843.webp",
+   "url": "https://myanimelist.net/manga/173412",
+   "status": "completed",
+   "score": 0,
+   "progress": 22,
+   "total": 22
+  },
+  {
+   "id": 188409,
+   "title": "Haimiya-senpai wa Kowakute Kawaii",
+   "image": "https://cdn.myanimelist.net/images/manga/3/341234.jpg",
+   "url": "https://myanimelist.net/manga/188409",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 192058,
+   "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
+   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
+   "url": "https://myanimelist.net/manga/192058",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 111621,
+   "title": "Pashiri na Boku to Koisuru Banchou-san",
+   "image": "https://cdn.myanimelist.net/images/manga/2/210692.jpg",
+   "url": "https://myanimelist.net/manga/111621",
+   "status": "completed",
+   "score": 0,
+   "progress": 78,
+   "total": 78
+  },
+  {
+   "id": 148827,
+   "title": "Dead Days",
+   "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
+   "url": "https://myanimelist.net/manga/148827",
+   "status": "completed",
+   "score": 0,
+   "progress": 60,
+   "total": 60
+  },
+  {
+   "id": 146751,
+   "title": "Shotgun Boy",
+   "image": "https://cdn.myanimelist.net/images/manga/2/260422.jpg",
+   "url": "https://myanimelist.net/manga/146751",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 69
+  },
+  {
+   "id": 124845,
+   "title": "Sweet Home",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+   "url": "https://myanimelist.net/manga/124845",
+   "status": "completed",
+   "score": 0,
+   "progress": 141,
+   "total": 141
+  },
+  {
+   "id": 14721,
+   "title": "D-Frag!",
+   "image": "https://cdn.myanimelist.net/images/manga/1/188780.jpg",
+   "url": "https://myanimelist.net/manga/14721",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  }
+ ]
+}
