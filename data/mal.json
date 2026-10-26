@@ -23,7 +23,7 @@
   {
    "id": 32828,
    "title": "Amaama to Inazuma",
-   "image": "https://cdn.myanimelist.net/images/anime/6/80546.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
    "url": "https://myanimelist.net/anime/32828",
    "status": "completed",
    "score": 0,
@@ -103,7 +103,7 @@
   {
    "id": 41402,
    "title": "Mairimashita! Iruma-kun 2nd Season",
-   "image": "https://cdn.myanimelist.net/images/anime/1527/113656.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1527/113656.jpg",
    "url": "https://myanimelist.net/anime/41402",
    "status": "completed",
    "score": 0,
@@ -123,6 +123,16 @@
  ],
  "manga": [
   {
+   "id": 51233,
+   "title": "Arslan Senki",
+   "image": "https://cdn.myanimelist.net/images/manga/2/149815.jpg",
+   "url": "https://myanimelist.net/manga/51233",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
    "id": 131924,
    "title": "Tsue to Tsurugi no Wistoria",
    "image": "https://cdn.myanimelist.net/images/manga/1/243105.jpg",
@@ -133,19 +143,9 @@
    "total": 0
   },
   {
-   "id": 122353,
-   "title": "Kaette Kudasai! Akutsu-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/305251.webp",
-   "url": "https://myanimelist.net/manga/122353",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -165,7 +165,7 @@
   {
    "id": 173412,
    "title": "Tonari no Seki no Yankee Shimizu-san ga Kami wo Kuroku Sometekita",
-   "image": "https://cdn.myanimelist.net/images/manga/3/319843.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/3/319843.jpg",
    "url": "https://myanimelist.net/manga/173412",
    "status": "completed",
    "score": 0,
@@ -205,7 +205,7 @@
   {
    "id": 148827,
    "title": "Dead Days",
-   "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/264037.webp",
    "url": "https://myanimelist.net/manga/148827",
    "status": "completed",
    "score": 0,
@@ -225,7 +225,7 @@
   {
    "id": 124845,
    "title": "Sweet Home",
-   "image": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
    "url": "https://myanimelist.net/manga/124845",
    "status": "completed",
    "score": 0,
@@ -235,7 +235,7 @@
   {
    "id": 14721,
    "title": "D-Frag!",
-   "image": "https://cdn.myanimelist.net/images/manga/1/188780.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/1/188780.webp",
    "url": "https://myanimelist.net/manga/14721",
    "status": "reading",
    "score": 0,
