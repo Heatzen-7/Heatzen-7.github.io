@@ -1,0 +1,32 @@
+name: Update Latest
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/updates.json"
+  schedule:
+    - cron: "30 20 * * *"   # tiap hari pukul 03.30 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Buat daftar pembaruan
+        run: node scripts/make-updates.mjs
+      - name: Simpan jika ada perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/updates.json
+          git diff --staged --quiet || (git commit -m "Update data latest updates" && git push)
