@@ -18,7 +18,13 @@ const contact = [
   ["MyAnimeList", "https://myanimelist.net/profile/Heatzen"],
   ["Facebook", "https://www.facebook.com/ikhsanudinmn"]
 ];
-
+// Game yang dimainkan: tampil di sidebar Homepage. Format: ["Nama game", "Nickname"].
+const games = [
+  ["Arknights: Endfield", "Heatzen"],
+  ["Arknights", "Dr. Heatzen"]
+];
+// Keterangan kecil di bawah daftar game (kosongkan "" kalau tidak ingin ditampilkan).
+const gamesNote = "an Endmin and a Dokutah at the same time";
 // ===== selesai =====
 
 let path = location.pathname.replace(/index\.html$/, "");
@@ -38,3 +44,12 @@ const footer = document.createElement("footer");
 footer.innerHTML = `<span>&copy; ${new Date().getFullYear()} Ikhsanudin Muhammad Nurzaini</span>` +
   (shown.length ? "<ul>" + shown.map(([t, u]) => `<li><a href="${u}">${t}</a></li>`).join("") + "</ul>" : "");
 document.body.append(footer);
+
+const gamesBox = document.querySelector(".side .games");
+if (gamesBox) {
+  const st = document.createElement("style");
+  st.textContent = ".side .games{margin-top:1.25rem}.side .games p{margin:0 0 .6rem;line-height:1.35}.side .games span{display:block;color:var(--mute);font-size:.85rem}.side .games .note{color:var(--mute);font-size:.9rem;font-style:italic;margin-top:.9rem}";
+  document.head.append(st);
+  gamesBox.innerHTML = games.map(([g, n]) => `<p><span>${g}</span>${n}</p>`).join("") +
+    (gamesNote ? `<p class="note">${gamesNote}</p>` : "");
+}
