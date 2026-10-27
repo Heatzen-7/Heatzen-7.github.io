@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "sha": "c11bc840b5724ca892543e27e8d8b3498a9c393c",
+   "tanggal": "2026-10-27T20:31:07Z",
+   "kategori": "Anime",
+   "judul": "Daftar anime dan manga diperbarui",
+   "url": "/anime-list/",
+   "ringkasan": ""
+  },
+  {
    "sha": "cf0ca88795bb4b7499cfa6d1ecfeda81c978e726",
    "tanggal": "2026-10-27T18:19:16+07:00",
    "kategori": "CV",
@@ -30,14 +38,6 @@
    "kategori": "Projects",
    "judul": "Peta Frontline diperbarui",
    "url": "/projects/",
-   "ringkasan": ""
-  },
-  {
-   "sha": "a49f3456009bfd2bf1227e543b62d5f286121456",
-   "tanggal": "2026-10-26T23:55:02Z",
-   "kategori": "Anime",
-   "judul": "Daftar anime dan manga diperbarui",
-   "url": "/anime-list/",
    "ringkasan": ""
   }
  ]
