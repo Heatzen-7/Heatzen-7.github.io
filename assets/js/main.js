@@ -4,7 +4,7 @@
 const links = [
   ["/", "Homepage"], ["/cv/", "CV"], ["/projects/", "Projects"],
   ["/photography/", "Photography"], ["/anime-list/", "Anime Watching List"],
-  ["/manga-list/", "Manga Reading List"], ["/pembahasan-anime/", "Anime Diary"]
+  ["/manga-list/", "Manga Reading List"], ["/pembahasan-anime/", "Anime Journal"]
 ];
 
 // Kontak: tampil di sidebar Homepage dan footer semua halaman.
