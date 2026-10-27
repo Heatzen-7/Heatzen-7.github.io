@@ -1,0 +1,44 @@
+{
+ "items": [
+  {
+   "sha": "d94eaeada7d6018d4592bbcdf80e571e6a2f0c2f",
+   "tanggal": "2026-10-27T12:11:50+07:00",
+   "kategori": "Projects",
+   "judul": "Halaman Projects diperbarui",
+   "url": "/projects/",
+   "ringkasan": ""
+  },
+  {
+   "sha": "e28c3d15825c2439d4897b27f7b4054577b7ff5e",
+   "tanggal": "2026-10-27T11:53:03+07:00",
+   "kategori": "CV",
+   "judul": "Halaman CV diperbarui",
+   "url": "/cv/",
+   "ringkasan": ""
+  },
+  {
+   "sha": "390975b2c5ebb0e48753e7c75bd907a9996329e5",
+   "tanggal": "2026-10-27T11:45:46+07:00",
+   "kategori": "Projects",
+   "judul": "PDF baru ditambahkan",
+   "url": "/projects/",
+   "ringkasan": ""
+  },
+  {
+   "sha": "1ccea3d5d622787b01acfbbf554c4c5b5f82f3e8",
+   "tanggal": "2026-10-27T11:40:00+07:00",
+   "kategori": "Projects",
+   "judul": "Peta Frontline diperbarui",
+   "url": "/projects/",
+   "ringkasan": ""
+  },
+  {
+   "sha": "a49f3456009bfd2bf1227e543b62d5f286121456",
+   "tanggal": "2026-10-26T23:55:02Z",
+   "kategori": "Anime",
+   "judul": "Daftar anime dan manga diperbarui",
+   "url": "/anime-list/",
+   "ringkasan": ""
+  }
+ ]
+}
