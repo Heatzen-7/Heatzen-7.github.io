@@ -1,19 +1,19 @@
 {
  "items": [
   {
+   "sha": "72c392f627104db325c859a2c3ae2384280a8a54",
+   "tanggal": "2026-10-27T16:14:01+07:00",
+   "kategori": "CV",
+   "judul": "Halaman CV diperbarui",
+   "url": "/cv/",
+   "ringkasan": ""
+  },
+  {
    "sha": "9a1ae605434fa2ee67c3a09c01efa4615d145eab",
    "tanggal": "2026-10-27T16:10:33+07:00",
    "kategori": "Projects",
    "judul": "Halaman Projects diperbarui",
    "url": "/projects/",
-   "ringkasan": ""
-  },
-  {
-   "sha": "e28c3d15825c2439d4897b27f7b4054577b7ff5e",
-   "tanggal": "2026-10-27T11:53:03+07:00",
-   "kategori": "CV",
-   "judul": "Halaman CV diperbarui",
-   "url": "/cv/",
    "ringkasan": ""
   },
   {
