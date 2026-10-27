@@ -13,6 +13,8 @@
       catatan: "Banyak jalur menuju titik ini, tetapi tidak ada catatan resmi sebagai stasiun. Menurut ulasan Google, lahannya milik PTKAI."
     }
   };
+  // Opsional: kunci API CARTO gratis (carto.com/basemaps/apikey) untuk menampilkan opsi "Peta gelap". Kosongkan jika tidak punya.
+  const CARTO_KEY = "";
   // Folder dengan nama ini bukan nama lintas, jadi nama lintas diambil dari folder di atasnya.
   const FOLDER_BUKAN_LINTAS = /^(rute|daftar)/i;
   // ===== selesai =====
@@ -133,28 +135,35 @@
     box.textContent = ""; box.classList.add("fl-ready");
     const map = L.map(box, { renderer: L.canvas({ padding: .5, tolerance: 6 }) });
     const base = {
-      "Peta gelap": L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", { subdomains: "abcd", maxZoom: 19, attribution: "&copy; OpenStreetMap, &copy; CARTO" }),
-      "OpenStreetMap": L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }),
       "Citra satelit": L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxZoom: 18, attribution: "Tiles &copy; Esri" })
     };
-    base["Peta gelap"].addTo(map);
+    if (CARTO_KEY) base["Peta gelap"] = L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=" + encodeURIComponent(CARTO_KEY), { subdomains: "abcd", maxZoom: 19, attribution: "&copy; OpenStreetMap, &copy; CARTO" });
+    base["OpenStreetMap"] = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" });
+    base["Citra satelit"].addTo(map);
     L.control.layers(base, null).addTo(map);
     const group = L.featureGroup().addTo(map);
+    const dots = [];
 
     for (const j of d.jalur) { // garis digambar dulu agar titik berada di atasnya
       const w = j.non ? WARNA.jalurNonaktif : WARNA.aktif;
       const o = { color: w, weight: 3, opacity: j.kep === "lemah" ? .6 : .95, dashArray: j.kep === "pasti" ? null : j.kep === "kuat" ? "8 6" : "2 7" };
+      if (!j.area) L.polyline(j.pts, { color: "#000", weight: 6, opacity: .45, interactive: false }).addTo(group);
       const lay = j.area ? L.polygon(j.pts, { ...o, fillColor: w, fillOpacity: .12 }) : L.polyline(j.pts, o);
       lay.bindPopup(popup(j.nama, [(j.area ? "Area " : "Jalur ") + (j.non ? "nonaktif" : "aktif"), KET[j.kep]])).addTo(group);
     }
     for (const t of d.titik) {
       const w = t.non ? WARNA.titikNonaktif : WARNA.aktif;
-      L.circleMarker(t.ll, { radius: 5, color: w, weight: 2, fillColor: w, fillOpacity: t.kep === "pasti" ? .95 : t.kep === "kuat" ? .12 : .05,
+      dots.push(L.circleMarker(t.ll, { radius: 5, color: w, weight: 2, fillColor: w, fillOpacity: t.kep === "pasti" ? .95 : t.kep === "kuat" ? .12 : .05,
         opacity: t.kep === "lemah" ? .65 : 1, dashArray: t.kep === "lemah" ? "2 3" : null })
         .bindTooltip(t.nama, { direction: "top" })
-        .bindPopup(popup(t.nama, [t.jenis + " " + (t.non ? "nonaktif" : "aktif"), KET[t.kep]], t.catatan)).addTo(group);
+        .bindPopup(popup(t.nama, [t.jenis + " " + (t.non ? "nonaktif" : "aktif"), KET[t.kep]], t.catatan)).addTo(group));
     }
     map.fitBounds(group.getBounds(), { padding: [20, 20] });
+    function ukuran() { // titik lebih kecil saat zoom jauh supaya tidak menumpuk
+      const z = map.getZoom(), r = z <= 8 ? 2.5 : z <= 10 ? 3.5 : z <= 12 ? 4.5 : 5.5;
+      for (const m of dots) { m.setRadius(r); m.setStyle({ weight: z <= 9 ? 1 : 2 }); }
+    }
+    map.on("zoomend", ukuran); ukuran();
 
     const Legend = L.Control.extend({ options: { position: "bottomleft" }, onAdd() {
       const e = L.DomUtil.create("div", "fl-legend");
