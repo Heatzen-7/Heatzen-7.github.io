@@ -1,19 +1,19 @@
 {
  "items": [
   {
+   "sha": "33f38f665932b47e417b67064460f536ed16c0a8",
+   "tanggal": "2026-10-28T20:34:03Z",
+   "kategori": "Anime",
+   "judul": "Daftar anime dan manga diperbarui",
+   "url": "/anime-list/",
+   "ringkasan": ""
+  },
+  {
    "sha": "50ac3d0e21ffffc6c3fd07a951c2e77b55a6e128",
    "tanggal": "2026-10-28T11:43:05Z",
    "kategori": "CV",
    "judul": "Halaman CV diperbarui",
    "url": "/cv/",
-   "ringkasan": ""
-  },
-  {
-   "sha": "c11bc840b5724ca892543e27e8d8b3498a9c393c",
-   "tanggal": "2026-10-27T20:31:07Z",
-   "kategori": "Anime",
-   "judul": "Daftar anime dan manga diperbarui",
-   "url": "/anime-list/",
    "ringkasan": ""
   },
   {
