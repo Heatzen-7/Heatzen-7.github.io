@@ -1,9 +1,49 @@
 {
  "anime": [
   {
+   "id": 15335,
+   "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+   "url": "https://myanimelist.net/anime/15335",
+   "status": "completed",
+   "score": 0,
+   "progress": 1,
+   "total": 1
+  },
+  {
+   "id": 4224,
+   "title": "Toradora!",
+   "image": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+   "url": "https://myanimelist.net/anime/4224",
+   "status": "completed",
+   "score": 0,
+   "progress": 25,
+   "total": 25
+  },
+  {
+   "id": 32281,
+   "title": "Kimi no Na wa.",
+   "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+   "url": "https://myanimelist.net/anime/32281",
+   "status": "completed",
+   "score": 0,
+   "progress": 1,
+   "total": 1
+  },
+  {
+   "id": 1535,
+   "title": "Death Note",
+   "image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+   "url": "https://myanimelist.net/anime/1535",
+   "status": "completed",
+   "score": 0,
+   "progress": 37,
+   "total": 37
+  },
+  {
    "id": 51815,
    "title": "Kubo-san wa Mob wo Yurusanai",
-   "image": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1818/132330.webp",
    "url": "https://myanimelist.net/anime/51815",
    "status": "completed",
    "score": 0,
@@ -43,7 +83,7 @@
   {
    "id": 20853,
    "title": "Hitsugi no Chaika",
-   "image": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
    "url": "https://myanimelist.net/anime/20853",
    "status": "completed",
    "score": 0,
@@ -63,7 +103,7 @@
   {
    "id": 62535,
    "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-   "image": "https://cdn.myanimelist.net/images/anime/1350/159514.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1350/159514.webp",
    "url": "https://myanimelist.net/anime/62535",
    "status": "completed",
    "score": 0,
@@ -79,53 +119,13 @@
    "score": 0,
    "progress": 13,
    "total": 13
-  },
-  {
-   "id": 49784,
-   "title": "Mairimashita! Iruma-kun 3rd Season",
-   "image": "https://cdn.myanimelist.net/images/anime/1688/128720.jpg",
-   "url": "https://myanimelist.net/anime/49784",
-   "status": "completed",
-   "score": 0,
-   "progress": 21,
-   "total": 21
-  },
-  {
-   "id": 39196,
-   "title": "Mairimashita! Iruma-kun",
-   "image": "https://cdn.myanimelist.net/images/anime/1009/103187.webp",
-   "url": "https://myanimelist.net/anime/39196",
-   "status": "completed",
-   "score": 0,
-   "progress": 23,
-   "total": 23
-  },
-  {
-   "id": 41402,
-   "title": "Mairimashita! Iruma-kun 2nd Season",
-   "image": "https://cdn.myanimelist.net/images/anime/1527/113656.webp",
-   "url": "https://myanimelist.net/anime/41402",
-   "status": "completed",
-   "score": 0,
-   "progress": 21,
-   "total": 21
-  },
-  {
-   "id": 5680,
-   "title": "K-On!",
-   "image": "https://cdn.myanimelist.net/images/anime/10/76120.webp",
-   "url": "https://myanimelist.net/anime/5680",
-   "status": "completed",
-   "score": 0,
-   "progress": 13,
-   "total": 13
   }
  ],
  "manga": [
   {
    "id": 51233,
    "title": "Arslan Senki",
-   "image": "https://cdn.myanimelist.net/images/manga/2/149815.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/149815.webp",
    "url": "https://myanimelist.net/manga/51233",
    "status": "reading",
    "score": 0,
@@ -145,7 +145,7 @@
   {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -155,7 +155,7 @@
   {
    "id": 118741,
    "title": "Tonari no Furi-san ga Tonikaku Kowai.",
-   "image": "https://cdn.myanimelist.net/images/manga/2/220222.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
    "url": "https://myanimelist.net/manga/118741",
    "status": "reading",
    "score": 0,
@@ -205,7 +205,7 @@
   {
    "id": 148827,
    "title": "Dead Days",
-   "image": "https://cdn.myanimelist.net/images/manga/2/264037.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
    "url": "https://myanimelist.net/manga/148827",
    "status": "completed",
    "score": 0,
@@ -225,7 +225,7 @@
   {
    "id": 124845,
    "title": "Sweet Home",
-   "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
    "url": "https://myanimelist.net/manga/124845",
    "status": "completed",
    "score": 0,
@@ -235,7 +235,7 @@
   {
    "id": 14721,
    "title": "D-Frag!",
-   "image": "https://cdn.myanimelist.net/images/manga/1/188780.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/1/188780.jpg",
    "url": "https://myanimelist.net/manga/14721",
    "status": "reading",
    "score": 0,
