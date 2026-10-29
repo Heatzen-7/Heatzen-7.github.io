@@ -1,9 +1,29 @@
 {
  "anime": [
   {
+   "id": 34561,
+   "title": "Re:Creators",
+   "image": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+   "url": "https://myanimelist.net/anime/34561",
+   "status": "completed",
+   "score": 0,
+   "progress": 22,
+   "total": 22
+  },
+  {
+   "id": 49470,
+   "title": "Mamahaha no Tsurego ga Motokano datta",
+   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.jpg",
+   "url": "https://myanimelist.net/anime/49470",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
    "id": 15335,
    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
    "url": "https://myanimelist.net/anime/15335",
    "status": "completed",
    "score": 0,
@@ -43,7 +63,7 @@
   {
    "id": 51815,
    "title": "Kubo-san wa Mob wo Yurusanai",
-   "image": "https://cdn.myanimelist.net/images/anime/1818/132330.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
    "url": "https://myanimelist.net/anime/51815",
    "status": "completed",
    "score": 0,
@@ -83,7 +103,7 @@
   {
    "id": 20853,
    "title": "Hitsugi no Chaika",
-   "image": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
    "url": "https://myanimelist.net/anime/20853",
    "status": "completed",
    "score": 0,
@@ -99,33 +119,13 @@
    "score": 0,
    "progress": 13,
    "total": 13
-  },
-  {
-   "id": 62535,
-   "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-   "image": "https://cdn.myanimelist.net/images/anime/1350/159514.webp",
-   "url": "https://myanimelist.net/anime/62535",
-   "status": "completed",
-   "score": 0,
-   "progress": 12,
-   "total": 12
-  },
-  {
-   "id": 63082,
-   "title": "Reiwa no Dara-san",
-   "image": "https://cdn.myanimelist.net/images/anime/1170/155761.jpg",
-   "url": "https://myanimelist.net/anime/63082",
-   "status": "completed",
-   "score": 0,
-   "progress": 13,
-   "total": 13
   }
  ],
  "manga": [
   {
    "id": 51233,
    "title": "Arslan Senki",
-   "image": "https://cdn.myanimelist.net/images/manga/2/149815.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/149815.jpg",
    "url": "https://myanimelist.net/manga/51233",
    "status": "reading",
    "score": 0,
@@ -145,7 +145,7 @@
   {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -185,7 +185,7 @@
   {
    "id": 192058,
    "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
-   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/1/342675.webp",
    "url": "https://myanimelist.net/manga/192058",
    "status": "reading",
    "score": 0,
@@ -195,7 +195,7 @@
   {
    "id": 111621,
    "title": "Pashiri na Boku to Koisuru Banchou-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/210692.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/210692.webp",
    "url": "https://myanimelist.net/manga/111621",
    "status": "completed",
    "score": 0,
