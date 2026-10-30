@@ -1,6 +1,16 @@
 {
  "anime": [
   {
+   "id": 60310,
+   "title": "Mairimashita! Iruma-kun 4th Season",
+   "image": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg",
+   "url": "https://myanimelist.net/anime/60310",
+   "status": "completed",
+   "score": 0,
+   "progress": 24,
+   "total": 24
+  },
+  {
    "id": 34561,
    "title": "Re:Creators",
    "image": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
@@ -13,7 +23,7 @@
   {
    "id": 49470,
    "title": "Mamahaha no Tsurego ga Motokano datta",
-   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.webp",
    "url": "https://myanimelist.net/anime/49470",
    "status": "completed",
    "score": 0,
@@ -23,7 +33,7 @@
   {
    "id": 15335,
    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-   "image": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
    "url": "https://myanimelist.net/anime/15335",
    "status": "completed",
    "score": 0,
@@ -33,7 +43,7 @@
   {
    "id": 4224,
    "title": "Toradora!",
-   "image": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
    "url": "https://myanimelist.net/anime/4224",
    "status": "completed",
    "score": 0,
@@ -93,7 +103,7 @@
   {
    "id": 24231,
    "title": "Hitsugi no Chaika: Avenging Battle",
-   "image": "https://cdn.myanimelist.net/images/anime/3/67797.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/3/67797.webp",
    "url": "https://myanimelist.net/anime/24231",
    "status": "completed",
    "score": 0,
@@ -109,19 +119,19 @@
    "score": 0,
    "progress": 12,
    "total": 12
-  },
-  {
-   "id": 62856,
-   "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-   "image": "https://cdn.myanimelist.net/images/anime/1068/158475.jpg",
-   "url": "https://myanimelist.net/anime/62856",
-   "status": "completed",
-   "score": 0,
-   "progress": 13,
-   "total": 13
   }
  ],
  "manga": [
+  {
+   "id": 141772,
+   "title": "Yomi no Tsugai",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
+   "url": "https://myanimelist.net/manga/141772",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
   {
    "id": 51233,
    "title": "Arslan Senki",
@@ -137,16 +147,6 @@
    "title": "Tsue to Tsurugi no Wistoria",
    "image": "https://cdn.myanimelist.net/images/manga/1/243105.jpg",
    "url": "https://myanimelist.net/manga/131924",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
-   "id": 141772,
-   "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
-   "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
    "progress": 0,
@@ -185,7 +185,7 @@
   {
    "id": 192058,
    "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
-   "image": "https://cdn.myanimelist.net/images/manga/1/342675.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
    "url": "https://myanimelist.net/manga/192058",
    "status": "reading",
    "score": 0,
@@ -195,7 +195,7 @@
   {
    "id": 111621,
    "title": "Pashiri na Boku to Koisuru Banchou-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/210692.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/210692.jpg",
    "url": "https://myanimelist.net/manga/111621",
    "status": "completed",
    "score": 0,
@@ -215,7 +215,7 @@
   {
    "id": 146751,
    "title": "Shotgun Boy",
-   "image": "https://cdn.myanimelist.net/images/manga/2/260422.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/260422.jpg",
    "url": "https://myanimelist.net/manga/146751",
    "status": "reading",
    "score": 0,
@@ -225,7 +225,7 @@
   {
    "id": 124845,
    "title": "Sweet Home",
-   "image": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
    "url": "https://myanimelist.net/manga/124845",
    "status": "completed",
    "score": 0,
