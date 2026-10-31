@@ -23,7 +23,7 @@
   {
    "id": 49470,
    "title": "Mamahaha no Tsurego ga Motokano datta",
-   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.jpg",
    "url": "https://myanimelist.net/anime/49470",
    "status": "completed",
    "score": 0,
@@ -43,7 +43,7 @@
   {
    "id": 4224,
    "title": "Toradora!",
-   "image": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
    "url": "https://myanimelist.net/anime/4224",
    "status": "completed",
    "score": 0,
@@ -53,7 +53,7 @@
   {
    "id": 32281,
    "title": "Kimi no Na wa.",
-   "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
    "url": "https://myanimelist.net/anime/32281",
    "status": "completed",
    "score": 0,
@@ -103,7 +103,7 @@
   {
    "id": 24231,
    "title": "Hitsugi no Chaika: Avenging Battle",
-   "image": "https://cdn.myanimelist.net/images/anime/3/67797.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/3/67797.jpg",
    "url": "https://myanimelist.net/anime/24231",
    "status": "completed",
    "score": 0,
@@ -113,7 +113,7 @@
   {
    "id": 20853,
    "title": "Hitsugi no Chaika",
-   "image": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
    "url": "https://myanimelist.net/anime/20853",
    "status": "completed",
    "score": 0,
@@ -123,9 +123,19 @@
  ],
  "manga": [
   {
+   "id": 122353,
+   "title": "Kaette Kudasai! Akutsu-san",
+   "image": "https://cdn.myanimelist.net/images/manga/2/305251.jpg",
+   "url": "https://myanimelist.net/manga/122353",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -155,7 +165,7 @@
   {
    "id": 118741,
    "title": "Tonari no Furi-san ga Tonikaku Kowai.",
-   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/220222.webp",
    "url": "https://myanimelist.net/manga/118741",
    "status": "reading",
    "score": 0,
@@ -225,22 +235,12 @@
   {
    "id": 124845,
    "title": "Sweet Home",
-   "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
    "url": "https://myanimelist.net/manga/124845",
    "status": "completed",
    "score": 0,
    "progress": 141,
    "total": 141
-  },
-  {
-   "id": 14721,
-   "title": "D-Frag!",
-   "image": "https://cdn.myanimelist.net/images/manga/1/188780.jpg",
-   "url": "https://myanimelist.net/manga/14721",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
   }
  ]
 }
