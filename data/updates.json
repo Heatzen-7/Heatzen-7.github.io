@@ -1,19 +1,19 @@
 {
  "items": [
   {
+   "sha": "c8e9311044f9df8375247aa24a667a5f42599b0a",
+   "tanggal": "2026-10-31T20:26:50Z",
+   "kategori": "Anime",
+   "judul": "Daftar anime dan manga diperbarui",
+   "url": "/anime-list/",
+   "ringkasan": ""
+  },
+  {
    "sha": "63f8785934ced230f21752eb52992474403c94bd",
    "tanggal": "2026-10-31T17:39:15+07:00",
    "kategori": "Projects",
    "judul": "Halaman Projects diperbarui",
    "url": "/projects/",
-   "ringkasan": ""
-  },
-  {
-   "sha": "4248b80e35a0aa99b205889147ec6033042e888d",
-   "tanggal": "2026-10-30T20:30:07Z",
-   "kategori": "Anime",
-   "judul": "Daftar anime dan manga diperbarui",
-   "url": "/anime-list/",
    "ringkasan": ""
   },
   {
