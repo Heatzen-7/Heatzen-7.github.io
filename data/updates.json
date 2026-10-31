@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "sha": "4fa4cfcc62500c086b449a60e896d5aee1535688",
+   "tanggal": "2026-10-31T14:25:55+07:00",
+   "kategori": "Projects",
+   "judul": "Halaman Projects diperbarui",
+   "url": "/projects/",
+   "ringkasan": ""
+  },
+  {
    "sha": "4248b80e35a0aa99b205889147ec6033042e888d",
    "tanggal": "2026-10-30T20:30:07Z",
    "kategori": "Anime",
@@ -14,14 +22,6 @@
    "kategori": "CV",
    "judul": "Halaman CV diperbarui",
    "url": "/cv/",
-   "ringkasan": ""
-  },
-  {
-   "sha": "9a1ae605434fa2ee67c3a09c01efa4615d145eab",
-   "tanggal": "2026-10-27T16:10:33+07:00",
-   "kategori": "Projects",
-   "judul": "Halaman Projects diperbarui",
-   "url": "/projects/",
    "ringkasan": ""
   },
   {
