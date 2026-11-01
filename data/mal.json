@@ -1,6 +1,26 @@
 {
  "anime": [
   {
+   "id": 53439,
+   "title": "Boushoku no Berserk",
+   "image": "https://cdn.myanimelist.net/images/anime/1951/138462.jpg",
+   "url": "https://myanimelist.net/anime/53439",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
+   "id": 52482,
+   "title": "Sasaki to Pii-chan",
+   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.webp",
+   "url": "https://myanimelist.net/anime/52482",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
    "id": 60310,
    "title": "Mairimashita! Iruma-kun 4th Season",
    "image": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg",
@@ -83,7 +103,7 @@
   {
    "id": 56735,
    "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.webp",
    "url": "https://myanimelist.net/anime/56735",
    "status": "completed",
    "score": 0,
@@ -99,33 +119,13 @@
    "score": 0,
    "progress": 12,
    "total": 12
-  },
-  {
-   "id": 24231,
-   "title": "Hitsugi no Chaika: Avenging Battle",
-   "image": "https://cdn.myanimelist.net/images/anime/3/67797.jpg",
-   "url": "https://myanimelist.net/anime/24231",
-   "status": "completed",
-   "score": 0,
-   "progress": 10,
-   "total": 10
-  },
-  {
-   "id": 20853,
-   "title": "Hitsugi no Chaika",
-   "image": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
-   "url": "https://myanimelist.net/anime/20853",
-   "status": "completed",
-   "score": 0,
-   "progress": 12,
-   "total": 12
   }
  ],
  "manga": [
   {
    "id": 122353,
    "title": "Kaette Kudasai! Akutsu-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/305251.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/305251.webp",
    "url": "https://myanimelist.net/manga/122353",
    "status": "reading",
    "score": 0,
@@ -165,7 +165,7 @@
   {
    "id": 118741,
    "title": "Tonari no Furi-san ga Tonikaku Kowai.",
-   "image": "https://cdn.myanimelist.net/images/manga/2/220222.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
    "url": "https://myanimelist.net/manga/118741",
    "status": "reading",
    "score": 0,
@@ -195,7 +195,7 @@
   {
    "id": 192058,
    "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
-   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/1/342675.webp",
    "url": "https://myanimelist.net/manga/192058",
    "status": "reading",
    "score": 0,
