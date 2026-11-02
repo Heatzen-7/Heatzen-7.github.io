@@ -13,7 +13,7 @@
   {
    "id": 52482,
    "title": "Sasaki to Pii-chan",
-   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
    "url": "https://myanimelist.net/anime/52482",
    "status": "completed",
    "score": 0,
@@ -43,7 +43,7 @@
   {
    "id": 49470,
    "title": "Mamahaha no Tsurego ga Motokano datta",
-   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.webp",
    "url": "https://myanimelist.net/anime/49470",
    "status": "completed",
    "score": 0,
@@ -53,7 +53,7 @@
   {
    "id": 15335,
    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
    "url": "https://myanimelist.net/anime/15335",
    "status": "completed",
    "score": 0,
@@ -73,7 +73,7 @@
   {
    "id": 32281,
    "title": "Kimi no Na wa.",
-   "image": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
    "url": "https://myanimelist.net/anime/32281",
    "status": "completed",
    "score": 0,
@@ -103,7 +103,7 @@
   {
    "id": 56735,
    "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
    "url": "https://myanimelist.net/anime/56735",
    "status": "completed",
    "score": 0,
@@ -113,7 +113,7 @@
   {
    "id": 32828,
    "title": "Amaama to Inazuma",
-   "image": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/6/80546.webp",
    "url": "https://myanimelist.net/anime/32828",
    "status": "completed",
    "score": 0,
@@ -123,9 +123,29 @@
  ],
  "manga": [
   {
+   "id": 171064,
+   "title": "Kekkon suru tte Itta yo ne?",
+   "image": "https://cdn.myanimelist.net/images/manga/2/304009.webp",
+   "url": "https://myanimelist.net/manga/171064",
+   "status": "completed",
+   "score": 0,
+   "progress": 31,
+   "total": 31
+  },
+  {
+   "id": 113958,
+   "title": "Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic",
+   "image": "https://cdn.myanimelist.net/images/manga/3/212091.jpg",
+   "url": "https://myanimelist.net/manga/113958",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
    "id": 122353,
    "title": "Kaette Kudasai! Akutsu-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/305251.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/305251.jpg",
    "url": "https://myanimelist.net/manga/122353",
    "status": "reading",
    "score": 0,
@@ -195,7 +215,7 @@
   {
    "id": 192058,
    "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
-   "image": "https://cdn.myanimelist.net/images/manga/1/342675.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
    "url": "https://myanimelist.net/manga/192058",
    "status": "reading",
    "score": 0,
@@ -215,32 +235,12 @@
   {
    "id": 148827,
    "title": "Dead Days",
-   "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/264037.webp",
    "url": "https://myanimelist.net/manga/148827",
    "status": "completed",
    "score": 0,
    "progress": 60,
    "total": 60
-  },
-  {
-   "id": 146751,
-   "title": "Shotgun Boy",
-   "image": "https://cdn.myanimelist.net/images/manga/2/260422.jpg",
-   "url": "https://myanimelist.net/manga/146751",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 69
-  },
-  {
-   "id": 124845,
-   "title": "Sweet Home",
-   "image": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
-   "url": "https://myanimelist.net/manga/124845",
-   "status": "completed",
-   "score": 0,
-   "progress": 141,
-   "total": 141
   }
  ]
 }
