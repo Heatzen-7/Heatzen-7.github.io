@@ -13,7 +13,7 @@
   {
    "id": 52482,
    "title": "Sasaki to Pii-chan",
-   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.webp",
    "url": "https://myanimelist.net/anime/52482",
    "status": "completed",
    "score": 0,
@@ -43,7 +43,7 @@
   {
    "id": 49470,
    "title": "Mamahaha no Tsurego ga Motokano datta",
-   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1708/123281.webp",
    "url": "https://myanimelist.net/anime/49470",
    "status": "completed",
    "score": 0,
@@ -53,7 +53,7 @@
   {
    "id": 15335,
    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
    "url": "https://myanimelist.net/anime/15335",
    "status": "completed",
    "score": 0,
@@ -63,7 +63,7 @@
   {
    "id": 4224,
    "title": "Toradora!",
-   "image": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
    "url": "https://myanimelist.net/anime/4224",
    "status": "completed",
    "score": 0,
@@ -113,7 +113,7 @@
   {
    "id": 32828,
    "title": "Amaama to Inazuma",
-   "image": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/6/80546.webp",
    "url": "https://myanimelist.net/anime/32828",
    "status": "completed",
    "score": 0,
@@ -122,6 +122,26 @@
   }
  ],
  "manga": [
+  {
+   "id": 99007,
+   "title": "Komi-san wa, Comyushou desu.",
+   "image": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
+   "url": "https://myanimelist.net/manga/99007",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 500
+  },
+  {
+   "id": 157778,
+   "title": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome dato Omowareteiru",
+   "image": "https://cdn.myanimelist.net/images/manga/2/282862.jpg",
+   "url": "https://myanimelist.net/manga/157778",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
   {
    "id": 171064,
    "title": "Kekkon suru tte Itta yo ne?",
@@ -195,7 +215,7 @@
   {
    "id": 173412,
    "title": "Tonari no Seki no Yankee Shimizu-san ga Kami wo Kuroku Sometekita",
-   "image": "https://cdn.myanimelist.net/images/manga/3/319843.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/3/319843.jpg",
    "url": "https://myanimelist.net/manga/173412",
    "status": "completed",
    "score": 0,
@@ -221,26 +241,6 @@
    "score": 0,
    "progress": 0,
    "total": 0
-  },
-  {
-   "id": 111621,
-   "title": "Pashiri na Boku to Koisuru Banchou-san",
-   "image": "https://cdn.myanimelist.net/images/manga/2/210692.jpg",
-   "url": "https://myanimelist.net/manga/111621",
-   "status": "completed",
-   "score": 0,
-   "progress": 78,
-   "total": 78
-  },
-  {
-   "id": 148827,
-   "title": "Dead Days",
-   "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
-   "url": "https://myanimelist.net/manga/148827",
-   "status": "completed",
-   "score": 0,
-   "progress": 60,
-   "total": 60
   }
  ]
 }
