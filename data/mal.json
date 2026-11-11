@@ -1,6 +1,16 @@
 {
  "anime": [
   {
+   "id": 6512,
+   "title": "Nyan Koi!",
+   "image": "https://cdn.myanimelist.net/images/anime/10/18299.webp",
+   "url": "https://myanimelist.net/anime/6512",
+   "status": "completed",
+   "score": 0,
+   "progress": 12,
+   "total": 12
+  },
+  {
    "id": 53439,
    "title": "Boushoku no Berserk",
    "image": "https://cdn.myanimelist.net/images/anime/1951/138462.jpg",
@@ -13,7 +23,7 @@
   {
    "id": 52482,
    "title": "Sasaki to Pii-chan",
-   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
    "url": "https://myanimelist.net/anime/52482",
    "status": "completed",
    "score": 0,
@@ -63,7 +73,7 @@
   {
    "id": 4224,
    "title": "Toradora!",
-   "image": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
    "url": "https://myanimelist.net/anime/4224",
    "status": "completed",
    "score": 0,
@@ -83,7 +93,7 @@
   {
    "id": 1535,
    "title": "Death Note",
-   "image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
    "url": "https://myanimelist.net/anime/1535",
    "status": "completed",
    "score": 0,
@@ -103,18 +113,8 @@
   {
    "id": 56735,
    "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
    "url": "https://myanimelist.net/anime/56735",
-   "status": "completed",
-   "score": 0,
-   "progress": 12,
-   "total": 12
-  },
-  {
-   "id": 32828,
-   "title": "Amaama to Inazuma",
-   "image": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
-   "url": "https://myanimelist.net/anime/32828",
    "status": "completed",
    "score": 0,
    "progress": 12,
@@ -125,7 +125,7 @@
   {
    "id": 99007,
    "title": "Komi-san wa, Comyushou desu.",
-   "image": "https://cdn.myanimelist.net/images/manga/3/188962.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
    "url": "https://myanimelist.net/manga/99007",
    "status": "reading",
    "score": 0,
@@ -145,7 +145,7 @@
   {
    "id": 171064,
    "title": "Kekkon suru tte Itta yo ne?",
-   "image": "https://cdn.myanimelist.net/images/manga/2/304009.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/304009.webp",
    "url": "https://myanimelist.net/manga/171064",
    "status": "completed",
    "score": 0,
@@ -175,7 +175,7 @@
   {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -185,7 +185,7 @@
   {
    "id": 51233,
    "title": "Arslan Senki",
-   "image": "https://cdn.myanimelist.net/images/manga/2/149815.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/149815.webp",
    "url": "https://myanimelist.net/manga/51233",
    "status": "reading",
    "score": 0,
@@ -205,7 +205,7 @@
   {
    "id": 118741,
    "title": "Tonari no Furi-san ga Tonikaku Kowai.",
-   "image": "https://cdn.myanimelist.net/images/manga/2/220222.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
    "url": "https://myanimelist.net/manga/118741",
    "status": "reading",
    "score": 0,
