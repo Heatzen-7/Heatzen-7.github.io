@@ -3,7 +3,7 @@
   {
    "id": 6512,
    "title": "Nyan Koi!",
-   "image": "https://cdn.myanimelist.net/images/anime/10/18299.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/10/18299.jpg",
    "url": "https://myanimelist.net/anime/6512",
    "status": "completed",
    "score": 0,
@@ -13,7 +13,7 @@
   {
    "id": 53439,
    "title": "Boushoku no Berserk",
-   "image": "https://cdn.myanimelist.net/images/anime/1951/138462.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1951/138462.webp",
    "url": "https://myanimelist.net/anime/53439",
    "status": "completed",
    "score": 0,
@@ -33,7 +33,7 @@
   {
    "id": 60310,
    "title": "Mairimashita! Iruma-kun 4th Season",
-   "image": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1434/154048.webp",
    "url": "https://myanimelist.net/anime/60310",
    "status": "completed",
    "score": 0,
@@ -43,7 +43,7 @@
   {
    "id": 34561,
    "title": "Re:Creators",
-   "image": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/11/85469.webp",
    "url": "https://myanimelist.net/anime/34561",
    "status": "completed",
    "score": 0,
@@ -93,7 +93,7 @@
   {
    "id": 1535,
    "title": "Death Note",
-   "image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+   "image": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
    "url": "https://myanimelist.net/anime/1535",
    "status": "completed",
    "score": 0,
@@ -123,6 +123,46 @@
  ],
  "manga": [
   {
+   "id": 122448,
+   "title": "Kubo-san wa Mob wo Yurusanai",
+   "image": "https://cdn.myanimelist.net/images/manga/3/227284.jpg",
+   "url": "https://myanimelist.net/manga/122448",
+   "status": "completed",
+   "score": 0,
+   "progress": 152,
+   "total": 152
+  },
+  {
+   "id": 162733,
+   "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
+   "image": "https://cdn.myanimelist.net/images/manga/3/293165.jpg",
+   "url": "https://myanimelist.net/manga/162733",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 104241,
+   "title": "Mairimashita! Iruma-kun",
+   "image": "https://cdn.myanimelist.net/images/manga/1/198066.jpg",
+   "url": "https://myanimelist.net/manga/104241",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 118251,
+   "title": "Hitoribocchi no Isekai Kouryaku",
+   "image": "https://cdn.myanimelist.net/images/manga/1/224110.jpg",
+   "url": "https://myanimelist.net/manga/118251",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
    "id": 99007,
    "title": "Komi-san wa, Comyushou desu.",
    "image": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
@@ -135,7 +175,7 @@
   {
    "id": 157778,
    "title": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome dato Omowareteiru",
-   "image": "https://cdn.myanimelist.net/images/manga/2/282862.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/282862.jpg",
    "url": "https://myanimelist.net/manga/157778",
    "status": "reading",
    "score": 0,
@@ -145,7 +185,7 @@
   {
    "id": 171064,
    "title": "Kekkon suru tte Itta yo ne?",
-   "image": "https://cdn.myanimelist.net/images/manga/2/304009.webp",
+   "image": "https://cdn.myanimelist.net/images/manga/2/304009.jpg",
    "url": "https://myanimelist.net/manga/171064",
    "status": "completed",
    "score": 0,
@@ -175,7 +215,7 @@
   {
    "id": 141772,
    "title": "Yomi no Tsugai",
-   "image": "https://cdn.myanimelist.net/images/manga/2/262130.jpg",
+   "image": "https://cdn.myanimelist.net/images/manga/2/262130.webp",
    "url": "https://myanimelist.net/manga/141772",
    "status": "reading",
    "score": 0,
@@ -197,46 +237,6 @@
    "title": "Tsue to Tsurugi no Wistoria",
    "image": "https://cdn.myanimelist.net/images/manga/1/243105.jpg",
    "url": "https://myanimelist.net/manga/131924",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
-   "id": 118741,
-   "title": "Tonari no Furi-san ga Tonikaku Kowai.",
-   "image": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
-   "url": "https://myanimelist.net/manga/118741",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 47
-  },
-  {
-   "id": 173412,
-   "title": "Tonari no Seki no Yankee Shimizu-san ga Kami wo Kuroku Sometekita",
-   "image": "https://cdn.myanimelist.net/images/manga/3/319843.jpg",
-   "url": "https://myanimelist.net/manga/173412",
-   "status": "completed",
-   "score": 0,
-   "progress": 22,
-   "total": 22
-  },
-  {
-   "id": 188409,
-   "title": "Haimiya-senpai wa Kowakute Kawaii",
-   "image": "https://cdn.myanimelist.net/images/manga/3/341234.jpg",
-   "url": "https://myanimelist.net/manga/188409",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
-   "id": 192058,
-   "title": "Tatakai shika Shiranai Onna Kishi wo Amayakashi Tsuzuketa",
-   "image": "https://cdn.myanimelist.net/images/manga/1/342675.jpg",
-   "url": "https://myanimelist.net/manga/192058",
    "status": "reading",
    "score": 0,
    "progress": 0,
