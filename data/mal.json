@@ -93,7 +93,7 @@
   {
    "id": 15335,
    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-   "image": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
+   "image": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
    "url": "https://myanimelist.net/anime/15335",
    "status": "completed",
    "score": 0,
@@ -122,6 +122,26 @@
   }
  ],
  "manga": [
+  {
+   "id": 197860,
+   "title": "Futari wa Sekai to Kamiawanai",
+   "image": "https://cdn.myanimelist.net/images/manga/2/351910.jpg",
+   "url": "https://myanimelist.net/manga/197860",
+   "status": "reading",
+   "score": 0,
+   "progress": 0,
+   "total": 0
+  },
+  {
+   "id": 139742,
+   "title": "Tonari no Kuroki-san wa Nomu to Yabai",
+   "image": "https://cdn.myanimelist.net/images/manga/2/253219.jpg",
+   "url": "https://myanimelist.net/manga/139742",
+   "status": "completed",
+   "score": 0,
+   "progress": 31,
+   "total": 31
+  },
   {
    "id": 184643,
    "title": "Janome-san wa Hohoemitai!",
@@ -217,26 +237,6 @@
    "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
    "image": "https://cdn.myanimelist.net/images/manga/3/293165.jpg",
    "url": "https://myanimelist.net/manga/162733",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
-   "id": 104241,
-   "title": "Mairimashita! Iruma-kun",
-   "image": "https://cdn.myanimelist.net/images/manga/1/198066.jpg",
-   "url": "https://myanimelist.net/manga/104241",
-   "status": "reading",
-   "score": 0,
-   "progress": 0,
-   "total": 0
-  },
-  {
-   "id": 118251,
-   "title": "Hitoribocchi no Isekai Kouryaku",
-   "image": "https://cdn.myanimelist.net/images/manga/1/224110.jpg",
-   "url": "https://myanimelist.net/manga/118251",
    "status": "reading",
    "score": 0,
    "progress": 0,
